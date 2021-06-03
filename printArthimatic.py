@@ -1,0 +1,5 @@
+print(1+2)
+print(2*4)
+print(34^3)
+print(23/7)
+print(34%6)
