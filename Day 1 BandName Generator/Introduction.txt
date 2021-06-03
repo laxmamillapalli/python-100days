@@ -1,0 +1,4 @@
+Create a cool band name
+1. Ask for the City they were born
+2. Ask for their pet
+3. combine both the values and print them as Band name 
