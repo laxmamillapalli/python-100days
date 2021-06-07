@@ -1,0 +1,2 @@
+This day we would like to build a simple game - Treasure Island.
+The goal of this day is to understand Conditional operators and other aspects of the program.
