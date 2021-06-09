@@ -1,0 +1,2 @@
+This day we would like to build a simple game - Rock Paper Scissors.
+The goal of this day is to understand Randomization, Lists and others.
